@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<Account xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExpenseCategories Name="All" />
+  <ExpenseCategories Name="Digital Entertainment">
+    <TransactionNames>Netflix</TransactionNames>
+    <TransactionNames>Spotify</TransactionNames>
+    <TransactionNames>GOOGLE *HBO</TransactionNames>
+    <TransactionNames>AMZNFreeTime</TransactionNames>
+    <TransactionNames>AMZ*Twitch</TransactionNames>
+    <TransactionNames>PANDORA*INTERNET</TransactionNames>
+    <TransactionNames>NORDVPN.COM</TransactionNames>
+    <TransactionNames>SINCITYSPORTS</TransactionNames>
+    <TransactionNames>AMZN Digital</TransactionNames>
+    <TransactionNames>GOOGLE*HBO</TransactionNames>
+    <TransactionNames>DRI*ARENA</TransactionNames>
+    <TransactionNames>CCP GAMES</TransactionNames>
+    <TransactionNames>BLIZZARD ENTERTAINM</TransactionNames>
+    <TransactionNames>EA *ORIGIN.COM</TransactionNames>
+    <TransactionNames>ANC*ANCESTRY.COM</TransactionNames>
+    <TransactionNames>TWITCH TWITCH</TransactionNames>
+    <TransactionNames>VUDU.COM</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Groceries">
+    <TransactionNames>HOMELAND</TransactionNames>
+    <TransactionNames>WALMART GROCERY</TransactionNames>
+    <TransactionNames>WAL-MART</TransactionNames>
+    <TransactionNames>REASOR'S</TransactionNames>
+    <TransactionNames>CREST FOODS</TransactionNames>
+    <TransactionNames>WHOLEFDS</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="USAA">
+    <TransactionNames>USAA</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Explorer Payment">
+    <TransactionNames>COMMERCE 339</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="7 ELEVEN">
+    <TransactionNames>7 ELEVEN</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Sams">
+    <TransactionNames>SAMS CLUB</TransactionNames>
+    <TransactionNames>SAMSCLUB</TransactionNames>
+    <TransactionNames>WAL SAM'S Club</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Work Vending Machine">
+    <TransactionNames>USCONNECT IMPRL</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Sprouts">
+    <TransactionNames>SPROUTS</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="The Home Depot">
+    <TransactionNames>THE HOME DEPOT</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Alcohol">
+    <TransactionNames>IN GOOD SPIRITS</TransactionNames>
+    <TransactionNames>WALNUT VILLAGE WINE</TransactionNames>
+    <TransactionNames>EXPRESS LIQUOR</TransactionNames>
+    <TransactionNames>North Oaks Wine &amp; Spiri</TransactionNames>
+    <TransactionNames>EDDIE`S LIQUOR EDMOND</TransactionNames>
+    <TransactionNames>STEVIE`S BARGAIN LIQ</TransactionNames>
+    <TransactionNames>SMG FOOD &amp; BEVERAGE</TransactionNames>
+    <TransactionNames>BYRON'S LIQUOR</TransactionNames>
+    <TransactionNames>EDMOND WINE SHOP</TransactionNames>
+    <TransactionNames>LTS LIQUOR</TransactionNames>
+    <TransactionNames>GRAND CRU WINE &amp; SPI</TransactionNames>
+    <TransactionNames>STATION WINE AND SPI</TransactionNames>
+    <TransactionNames>BOULEVARD WINE &amp; SPIRIT</TransactionNames>
+    <TransactionNames>CLASSEN LIQUOR</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Utility Bills">
+    <TransactionNames>OG&amp;E</TransactionNames>
+    <TransactionNames>OK NATURAL GAS</TransactionNames>
+    <TransactionNames>OKC              UTILITY</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="American Express">
+    <TransactionNames>AMERICAN EXPRESS ACH PMT</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Entertainment">
+    <TransactionNames>TICKETSTORM LLC</TransactionNames>
+    <TransactionNames>CINEMARK THEATRES</TransactionNames>
+    <TransactionNames>LINCOLN CHRISTIAN</TransactionNames>
+    <TransactionNames>AMC QUAIL</TransactionNames>
+    <TransactionNames>9640 AMC ONLINE</TransactionNames>
+    <TransactionNames>LANCER AT SCI MUSEUM</TransactionNames>
+    <TransactionNames>STATE FAIR PARK</TransactionNames>
+    <TransactionNames>CHUCK E CHEESE</TransactionNames>
+    <TransactionNames>MAINEVENT </TransactionNames>
+    <TransactionNames>SKY ZONE</TransactionNames>
+    <TransactionNames>SQ *VSTAR ENTERTAINM</TransactionNames>
+    <TransactionNames>SQ *FIREWORKS OKC</TransactionNames>
+    <TransactionNames>THE DALLAS WORLD AQUARI</TransactionNames>
+    <TransactionNames>UBER   *EATS</TransactionNames>
+    <TransactionNames>ARBUCKLE WILDERNESS</TransactionNames>
+    <TransactionNames>AMC PENN SQUARE</TransactionNames>
+    <TransactionNames>YMCA OKC</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Eating Out">
+    <TransactionNames>TST* HATCH</TransactionNames>
+    <TransactionNames>SONIC DRIVE IN</TransactionNames>
+    <TransactionNames>SCHLOTZSKY'S</TransactionNames>
+    <TransactionNames>The Garage</TransactionNames>
+    <TransactionNames>CARLS JR</TransactionNames>
+    <TransactionNames>HEFNER DONUT SHOP</TransactionNames>
+    <TransactionNames>TACO BUENO</TransactionNames>
+    <TransactionNames>QDOBA</TransactionNames>
+    <TransactionNames>BRAUMS</TransactionNames>
+    <TransactionNames>SUBWAY</TransactionNames>
+    <TransactionNames>CHICK-FIL-A</TransactionNames>
+    <TransactionNames>SONICDRIVEINSTORE</TransactionNames>
+    <TransactionNames>MCDONALD'S</TransactionNames>
+    <TransactionNames>JACK IN THE BOX</TransactionNames>
+    <TransactionNames>SQ *PITA PLACE FOOD</TransactionNames>
+    <TransactionNames>TORCHYS TACO</TransactionNames>
+    <TransactionNames>DUNKIN </TransactionNames>
+    <TransactionNames>SQ *ROXY'S ICE CREAM</TransactionNames>
+    <TransactionNames>JOHNNIES EXPRESS</TransactionNames>
+    <TransactionNames>LITTLE CAESARS</TransactionNames>
+    <TransactionNames>JERSEY MIKES </TransactionNames>
+    <TransactionNames>UNCLE JULIO'S</TransactionNames>
+    <TransactionNames>STARBUCKS STORE</TransactionNames>
+    <TransactionNames>SAN MARCOS 3</TransactionNames>
+    <TransactionNames>TED'S CAFE ORIGINAL</TransactionNames>
+    <TransactionNames>SQ *HOLEY ROLLERS</TransactionNames>
+    <TransactionNames>EL RANCHITO RESTAURANT</TransactionNames>
+    <TransactionNames>DOMINO'S</TransactionNames>
+    <TransactionNames>ROCOCO NORTHPARK       05/13</TransactionNames>
+    <TransactionNames>NHINJA SUSHI</TransactionNames>
+    <TransactionNames>ON THE BORDER EDMOND</TransactionNames>
+    <TransactionNames>FUZZY'S TACO SHOP</TransactionNames>
+    <TransactionNames>CHIPOTLE </TransactionNames>
+    <TransactionNames>THE SUSHI BAR</TransactionNames>
+    <TransactionNames>HIDEAWAY PIZZA</TransactionNames>
+    <TransactionNames>ARBY'S </TransactionNames>
+    <TransactionNames>CHELINOS MEXICAN </TransactionNames>
+    <TransactionNames>GYROS ETC </TransactionNames>
+    <TransactionNames>FREDDY'S FROZEN</TransactionNames>
+    <TransactionNames>PANERA BREAD</TransactionNames>
+    <TransactionNames>BUFFALO WILD WINGS</TransactionNames>
+    <TransactionNames>LA BRASA</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Gifts / Shopping">
+    <TransactionNames>PRINTERPIX.COM</TransactionNames>
+    <TransactionNames>GROUPON INC</TransactionNames>
+    <TransactionNames>DOLLAR GENERAL</TransactionNames>
+    <TransactionNames>HOBBYLOBBY</TransactionNames>
+    <TransactionNames>DOLLAR TREE</TransactionNames>
+    <TransactionNames>SP * ATMOSFX</TransactionNames>
+    <TransactionNames>OLD NAVY</TransactionNames>
+    <TransactionNames>SP * TEE FOR THE SOUL EDMOND</TransactionNames>
+    <TransactionNames>AMZN Mktp US</TransactionNames>
+    <TransactionNames>AMZ*AtmosFX</TransactionNames>
+    <TransactionNames>PERSONAL TOUCH MONOGRAM</TransactionNames>
+    <TransactionNames>Amazon.com Amzn.com</TransactionNames>
+    <TransactionNames>TLC GARDEN CENTERS</TransactionNames>
+    <TransactionNames>POLISHED NAIL SALON</TransactionNames>
+    <TransactionNames>SHUTTERFLY</TransactionNames>
+    <TransactionNames>RASPBERRIES N CREME</TransactionNames>
+    <TransactionNames>GreenManGaming</TransactionNames>
+    <TransactionNames>NNT TOYS R US</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Dogs">
+    <TransactionNames>PETSMART</TransactionNames>
+    <TransactionNames>HEFNER ROAD ANIMAL</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Chase Card Payment">
+    <TransactionNames>Payment to Chase card ending in 8285</TransactionNames>
+    <TransactionNames>Payment to Chase card ending in 9540</TransactionNames>
+    <TransactionNames>Payment to Chase card ending in 1854</TransactionNames>
+    <TransactionNames>PAYMENT TO CHASE CARD ENDING IN 1854</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Gas Station">
+    <TransactionNames>PHILLIPS 66</TransactionNames>
+    <TransactionNames>TOTAL EXPRESS II YUKON OK  </TransactionNames>
+    <TransactionNames>QT 97</TransactionNames>
+    <TransactionNames>QUIKTRIP TULSA OK</TransactionNames>
+    <TransactionNames>STATION 7 OKLAHOMA CITY</TransactionNames>
+    <TransactionNames>QT 53</TransactionNames>
+    <TransactionNames>CONOCO - HEFNER</TransactionNames>
+    <TransactionNames>ONCUE </TransactionNames>
+    <TransactionNames>EZ GO </TransactionNames>
+    <TransactionNames>LOVES CNTRY ST</TransactionNames>
+    <TransactionNames>QT 94</TransactionNames>
+    <TransactionNames>LOVE S COUNTR</TransactionNames>
+    <TransactionNames>HEFNER STOP OKLAHOMA</TransactionNames>
+    <TransactionNames>SUNOCO</TransactionNames>
+    <TransactionNames>7-ELEVEN</TransactionNames>
+    <TransactionNames>SHELL Service Statio</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="WalMart">
+    <TransactionNames>WM SUPERCENTER</TransactionNames>
+    <TransactionNames>WAL Wal-Mart</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Medical">
+    <TransactionNames>JOHN E. STECKLOW</TransactionNames>
+    <TransactionNames>OKC GYN AND OB</TransactionNames>
+    <TransactionNames>RADIOLOGY ASSOC LLC</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Casey Lunch">
+    <TransactionNames>WARRIOR EXPRESS OKARCHE OK</TransactionNames>
+    <TransactionNames>RANGER 3 OKARCHE</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Interest">
+    <TransactionNames>INTEREST PAYMENT</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="TJ Max">
+    <TransactionNames>TJX Rewards</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Mortgage">
+    <TransactionNames>Mtg MCD</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Lowes">
+    <TransactionNames>LOWES</TransactionNames>
+    <TransactionNames>LOWE'S</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Target">
+    <TransactionNames>TARGET</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Breakaway">
+    <TransactionNames>BREAKAWAY INDOOR</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Wallgreens">
+    <TransactionNames>WALGREENS</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Transfer">
+    <TransactionNames>Online Transfer from CHK</TransactionNames>
+    <TransactionNames>Online Transfer from MMA</TransactionNames>
+    <TransactionNames>Online Transfer to CHK ...2506</TransactionNames>
+    <TransactionNames>Online Transfer to MMA ...9661</TransactionNames>
+  </ExpenseCategories>
+  <ExpenseCategories Name="Nortek Income">
+    <TransactionNames>Nortek</TransactionNames>
+  </ExpenseCategories>
+</Account>
